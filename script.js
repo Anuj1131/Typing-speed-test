@@ -5,7 +5,7 @@ const resetBtn = document.getElementById("resetBtn");
 const result = document.getElementById("result");
 const timeTaken = document.getElementById("timeTaken");
 
-let startTime;
+let startTime
 let typingStarted = false;
 
 startBtn.addEventListener("click", () => {
