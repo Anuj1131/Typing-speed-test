@@ -46,4 +46,3 @@ resetBtn.addEventListener("click", () => {
     startBtn.disabled = false; // Enable start button
     typingStarted = false; // Reset typing state
 });
-
